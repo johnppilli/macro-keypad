@@ -1,0 +1,9 @@
+# KiCad lock & cache files
+*.lck
+~*.lck
+*-backups/
+fp-info-cache
+*.kicad_prl
+
+# OS junk
+.DS_Store
