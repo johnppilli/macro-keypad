@@ -30,9 +30,14 @@ schematic capture, component selection, PCB layout, and fabrication.
 - `gerbers/` — fabrication outputs
 - `board-front.jpg` / `board-back.jpg` — photos of the fabricated board
 
-## Status
+## Status — in progress
 
-Bare fabricated board in hand. **Firmware (RP2040 USB-HID keyboard) is in progress.**
+Bare fabricated board is in hand. Currently:
+
+- **Hand-soldering** the switches, per-key diodes, and supporting components onto the board
+- **Writing the RP2040 firmware** — USB-HID keyboard with matrix scanning and debounce
+
+Next up: bring-up and testing once assembly is complete.
 
 ## Tools
 
