@@ -7,3 +7,5 @@ fp-info-cache
 
 # OS junk
 .DS_Store
+
+.history/
